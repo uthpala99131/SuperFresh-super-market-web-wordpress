@@ -29,16 +29,21 @@
 	transform:scaleX(1) scaleY(1);
 }
 .depicter-revert .depicter-1-element-7{
+	filter:none;
+	text-shadow:none;
 	padding:11px 25px 10px 27px;
 	font-size:16px;
 	text-align:center;
 	color:#222;
 	font-family:"Archivo";
-	font-weight:600;
+	font-weight:700;
 	text-transform:uppercase;
 	letter-spacing:3px;
+	box-shadow:10px 10px 25px 0px #000;
 	transform:scaleX(1) scaleY(1);
+	backdrop-filter:none;
 	background-color:#06EE68;
+	border:none;
 	border-radius:33px;
 }
 .depicter-revert .depicter-1-element-7:not(.depicter-hover-off){
